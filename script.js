@@ -1,5 +1,5 @@
 
-"use strict";
+
 let titleLogo = document.querySelector(".title");
 let bodyElem = document.querySelector("body");
 
@@ -15,7 +15,7 @@ let apiData = {
 	url: "https://api.openweathermap.org/data/2.5/weather?q=",
 	key: "124b92a8dd9ec01ffb0dbf64bc44af3c",
 };
-cityInput.value = "tokyo";
+cityInput.value = "Nairobi";
 fetchDataFromApi();
 cityInput.value = "";
 function fetchDataFromApi() {

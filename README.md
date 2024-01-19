@@ -4,9 +4,7 @@ Overview
 Welcome to the Weather App! This application provides real-time weather information to help users stay informed about current and forecasted weather conditions. Whether you're planning your day, a trip, or just curious about the weather, this app has got you covered.
 
 Features
-Current Weather: Get up-to-date information on the current weather conditions, including temperature, humidity, wind speed, and more.
-
-Forecast: Plan ahead with our detailed weather forecast. View predictions for the next 7 days to make informed decisions.
+Current Weather: Get up-to-date information on the current weather conditions, including temperature, humidity, wind speed, cloud cover
 
 Location-based: The app automatically detects your location to provide accurate and localized weather information. You can also manually search for weather in different locations.
 
@@ -21,8 +19,6 @@ Download and install the Weather App from your preferred app store.
 The app is available for both iOS and Android platforms.
 Location Permission:
 
-Grant the app permission to access your location for accurate and personalized weather information.
-Search Locations:
 
 Enter the name of your city or a specific location to view weather details for that area.
 Explore Weather Data:
@@ -37,11 +33,7 @@ Geolocation: The app leverages geolocation services to automatically determine a
 
 Data Visualization Libraries: Charts and graphs are generated using data visualization libraries to enhance the user experience.
 
-Feedback and Support
-We welcome your feedback! If you have any suggestions, encounter issues, or want to report a bug, please contact our support team at support@weatherapp.com.
-
-Contributing
-If you're interested in contributing to the Weather App, please check out our contribution guidelines for more information.
+Author: Lamech74
 
 License
 The Weather App is licensed under the MIT License, allowing for open collaboration and development.
